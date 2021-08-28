@@ -3,7 +3,7 @@
 ### Installation (copy from [link](https://github.com/ckiplab/ckiptagger))
 
 ```
-pip install -U ckiptagger[tf, gdown]
+pip install -U ckiptagger[tf,gdown]
 ```
 
 Requirements:
